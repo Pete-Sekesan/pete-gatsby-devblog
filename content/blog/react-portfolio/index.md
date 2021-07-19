@@ -8,7 +8,7 @@ img: ./react-hot.jpg # Add image post (optional)
 So I know what you most likely are thinking:
 "Pete, why are you using React for a simple static developer portfolio?"
 
-I know. I get it. When I was in my boot camp, one of our first tasks was to build a dev portfolio. Later on when I was in the React portion of the curriculum, I thought to myself that I would love to redo it in React at some point. I reached out to the web and some mentors and I got conflicting advice.a1
+I know. I get it. When I was in my boot camp, one of our first tasks was to build a dev portfolio. Later on when I was in the React portion of the curriculum, I thought to myself that I would love to redo it in React at some point. I reached out to the web and some mentors and I got conflicting advice.
 
 "Sure, it could be a good way to show your skills with React"
 or
