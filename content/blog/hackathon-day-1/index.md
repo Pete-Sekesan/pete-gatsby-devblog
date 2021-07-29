@@ -23,7 +23,7 @@ Today we just spent the time fleshing out ideas for the card game application.
 Now, I know you are probably saying or thinking, _"You only have 6 days left, how could you waste a day?"_
 To be, this was a very productive day in that we have a nice outline of what we need to accomplish. I think once it comes down to diving into the coding tomorrow, we will have a clear path ahead of us and it was the best way to set ourselves up for success.
 
-<img src="./mobile-developent-life-cycle.png" />
+![development cycle map](./mobile-developent-life-cycle.png)
 
 Famous last words, am I right?
 
