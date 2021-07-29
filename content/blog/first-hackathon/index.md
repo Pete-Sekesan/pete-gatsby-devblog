@@ -1,6 +1,6 @@
 ---
 title: My First Hackathon
-date: 2021-07-28
+date: 2021-07-27
 description: # Add post description (optional)
 img: './hackathon1.png' # Add image post (optional)
 ---
